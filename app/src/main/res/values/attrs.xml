@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="hView">
+        <attr name="splitRadio" format="float"/>
+        <attr name="minSplitTop" format="dimension"/>
+        <attr name="minSplitBottom" format="dimension"/>
+
+    </declare-styleable>
+
+
+
+
+
+
+
+
+</resources>
